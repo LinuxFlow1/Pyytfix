@@ -10,5 +10,6 @@ When entering the application, enter
 # install python 
 `pkg install python python2 python3`
 # install dependencies from requirements 
+
 `cd Pyytfix`
-`python ytfix.py
+`python ytfix.py`
